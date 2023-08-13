@@ -1,0 +1,11 @@
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\bin\Debug\IT481_RebeccaDeLaney_Unit2.exe.config
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\bin\Debug\IT481_RebeccaDeLaney_Unit2.exe
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\bin\Debug\IT481_RebeccaDeLaney_Unit2.pdb
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\obj\Debug\IT481_RebeccaDeLaney_Unit2.csproj.AssemblyReference.cache
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\obj\Debug\IT481_RebeccaDeLaney_Unit2.csproj.SuggestedBindingRedirects.cache
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\obj\Debug\IT481_RebeccaDeLaney_Unit2.Form1.resources
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\obj\Debug\IT481_RebeccaDeLaney_Unit2.Properties.Resources.resources
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\obj\Debug\IT481_RebeccaDeLaney_Unit2.csproj.GenerateResource.cache
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\obj\Debug\IT481_RebeccaDeLaney_Unit2.csproj.CoreCompileInputs.cache
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\obj\Debug\IT481_RebeccaDeLaney_Unit2.exe
+C:\Users\marka\source\repos\IT481_RebeccaDeLaney_Unit2\IT481_RebeccaDeLaney_Unit2\obj\Debug\IT481_RebeccaDeLaney_Unit2.pdb
